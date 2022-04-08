@@ -29,15 +29,17 @@ Making a fancy line seperator for the coding stuff:
 ---
 A line of code:
 
-'System.out.println("What out... I think Motto Motto likes you...");'
+' System.out.println("What out... I think Motto Motto likes you..."); '
 
 Now a block of code:
 
 '''
+
 Boolean letsLink;
 if (you.areInterested()) {
   letsLink = true;
 } else {
   letsLink = false;
 }
+
 '''
