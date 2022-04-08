@@ -10,6 +10,7 @@
 
 [The Best Search Engine Linked](https://bing.com)
 
+### Our Beloved Instructor, photographed.
 ![Our beloved instructor photographed](https://canvas.ucsd.edu/courses/37651/files/6683580/preview)
 
 Let's make a list:
