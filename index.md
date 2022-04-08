@@ -1,6 +1,8 @@
-#Lab 2
+
+# Lab 2
 4/7/2022
-##Now testing all of the "Basic Syntax" from the cheat sheet.
+
+## Now testing all of the "Basic Syntax" from the cheat sheet.
 
 **Making a bold statement and assertion**
 
