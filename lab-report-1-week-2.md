@@ -3,7 +3,7 @@
 ## Installing VSCode
 
 To start, we downloaded Visual Studio Code at the following website URL: 
-https://code.visualstudio.com/
+[https://code.visualstudio.com/](https://code.visualstudio.com/)
 
 Then we followed the instructions to install it on our computers.
 
@@ -18,9 +18,9 @@ After a relatively quick and painless set-up here is what things look like:
 ## Remotely Connecting
 
 Firstly, OpenSSH has to be installed on my computer:
-https://sdacs.ucsd.edu/~icc/index.php
+[https://sdacs.ucsd.edu/~icc/index.php](https://sdacs.ucsd.edu/~icc/index.php)
 
-Following this guide: https://code.visualstudio.com/docs/remote/ssh#_connect-to-a-remote-host
+Following this guide: [https://code.visualstudio.com/docs/remote/ssh#_connect-to-a-remote-host](https://code.visualstudio.com/docs/remote/ssh#_connect-to-a-remote-host)
 
 I opened up the terminal, typed in:
 
