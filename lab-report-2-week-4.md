@@ -9,13 +9,13 @@
 * Link to the test file for a failure-inducing input that prompted you to make that
 change
 
-*I am confused by the word link, as it is a little vauge how I should like to this failure-inducing input. Nevertheless, here is an actual GitHub link to the input test file that caused this, and a photo. I am doing this in the hope to please all possible expecting outcomes.*
+*I am confused by the word "link", as it is a little vauge how I should "link" to this failure-inducing input. Nevertheless, here is an actual GitHub link to the input test file that caused this, and a photo. I am doing this in the hope to please all possible expecting outcomes.*
 
 [Link to failure-inducing input test file](https://github.com/zayverrulez/markdown-parser/blob/main/test-file3.md)
 
 Photo of failure-inducing input test file
 
-![Image](lab-report-2-photos\Screenshot_1.png)
+![Image](lab-report-2-photos\Screenshot_5.png)
 
 * Show the symptom of that failure-inducing input by showing the output of
 running the file at the command line for the version where it was failing (this
