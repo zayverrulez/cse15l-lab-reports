@@ -53,7 +53,7 @@ change
 
         * Photo of failure-inducing input test file
 
-            ![Image](lab-report-2-photos\Screenshot_3.png)
+            ![Image](lab-report-2-photos\Screenshot_1.png)
 
 * Show the symptom of that failure-inducing input by showing the output of
 running the file at the command line for the version where it was failing (this
