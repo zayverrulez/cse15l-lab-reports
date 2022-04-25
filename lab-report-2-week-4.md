@@ -99,3 +99,4 @@ should also be in the commit message history)
 symptom, and the failure-inducing input.
 
     * The bug is if a link is not the last thing in the markdown file, the program will just keep searching for the next link. The symptom is an infinite loop in the code which needs to either be broken or times out. The failure-inducing input is any markdown file that does not end with a link.
+    
