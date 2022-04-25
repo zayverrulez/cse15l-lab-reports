@@ -42,7 +42,7 @@ symptom, and the failure-inducing input.
 
 * Show a screenshot of the code change diff from Github
 
-    * ![Image](lab-report-2-photos\Screenshot_7.png)
+    * ![Image](lab-report-2-photos\Screenshot_6.png)
 
 * Link to the test file for a failure-inducing input that prompted you to make that
 change
@@ -90,14 +90,12 @@ change
 * Show the symptom of that failure-inducing input by showing the output of
 running the file at the command line for the version where it was failing (this
 should also be in the commit message history)
-    * My own personal example with different links.
+    * For this scenario, it is actually what the output does not include which is concerning, because there will never be an output due to the circumstances.
       ```
-      [https://vimeo.com,https://lh3.googleusercontent.com/2hDpuTi-0AMKvoZJGd-yKWvK4tKdQr_kLIpB_qSeMau2TNGCNidAosMEvrEXFO9G6tmlFlPQplpwiqirgrIPWnCKMvElaYgI-HiVvXc=w600, https://youtube.com]
+      //CODE NEEDS TO BE BROKEN -- INFINITE LOOP
       ```
-    * A photo from my pair programming driver partner's output:
-    ![Kasey's output](lab-report-2-photos\Screenshot_4.png)
 
 * Write 2-3 sentences describing the relationship between the bug, the
 symptom, and the failure-inducing input.
 
-    * The bug is that the code is not looking for an "!" before the open bracket. The symptom is that pictures in the markdown file are treated like links and are put in the link list. The failure-inducing input is `test-file3.md` which contains a picture between two links. 
+    * The bug is if a link is not the last thing in the markdown file, the program will just keep searching for the next link. The symptom is an infinite loop in the code which needs to either be broken or times out. The failure-inducing input is any markdown file that does not end with a link.
