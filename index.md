@@ -1,45 +1,12 @@
+# Welcome to Xavier's Main Web Page
+*in github pages :)* 
 
-# Lab 2
-4/7/2022
+(This page has the links for all the lab reports)
 
-## Now testing all of the "Basic Syntax" from the cheat sheet.
+## Lab Report 1 on Week 2
 
-**Making a bold statement and assertion**
+[https://zayverrulez.github.io/cse15l-lab-reports/lab-report-1-week-2.html](lab-report-1-week-2.md)
 
-*Prefacing that assertion with italcs backup*
+## Lab Report 2 on Week 4
 
-[The Best Search Engine Linked](https://bing.com)
-
-### Our Beloved Instructor, photographed.
-![Our beloved instructor photographed](https://canvas.ucsd.edu/courses/37651/files/6683580/preview)
-
-Let's make a list:
-* Steak
-* Pasta
-* Apples
-
-> "My favorite foods <3"
-
-Let's make a numbered list of my favoirte fictional dinosaurs ranked:
-1. Rex
-2. Barnie
-3. Dino
-
-Making a fancy line seperator for the coding stuff:
----
-A line of code:
-
-' System.out.println("What out... I think Motto Motto likes you..."); '
-
-Now a block of code:
-
-'''
-
-Boolean letsLink;
-if (you.areInterested()) {
-  letsLink = true;
-} else {
-  letsLink = false;
-}
-
-'''
+[https://zayverrulez.github.io/cse15l-lab-reports/lab-report-2-week-4.html](lab-report-2-week-4.md)
