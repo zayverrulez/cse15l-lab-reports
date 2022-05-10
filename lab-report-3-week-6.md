@@ -32,9 +32,9 @@ Hello! I tested positive for COVID this last week and have been in University Is
 
 * Show running git commands to commit and push a change to Github while logged into your ieng6 account.
 
-    *
+    * ![Picture 2.3.1](lab-report-3-photos\Screenshot_9.png)
 
-    * ![Picture 2.3.2](lab-report-3-photos\Screenshot_8.png)
+    * ![Picture 2.3.2](lab-report-3-photos\Screenshot_10.png)
 
 * Show a link for the resulting commit.
 
