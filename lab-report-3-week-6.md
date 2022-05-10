@@ -45,9 +45,19 @@ This allows you to interact with Github and your remote computer in a new differ
 
 ## Copy whole directories with ```scp -r```
 
+Things get a little weird when you copy whole directories. By weird, I mean abnormal--not expected for those who are like me and just learning. Using a -r recursive arguments allows you to get it done.
+
 * Show copying your whole markdown-parse directory to your ieng6 account.
+
+    * ![Picture 3.1.1](lab-report-3-photos\Screenshot_17.png)
+    * ![Picture 3.1.2](lab-report-3-photos\Screenshot_18.png)
+    * ![Picture 3.1.3](lab-report-3-photos\Screenshot_19.png)
 
 * Show logging into your ieng6 account after doing this and compiling
 and running the tests for your repository.
 
+    *
+
 * Show (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
+
+    *
