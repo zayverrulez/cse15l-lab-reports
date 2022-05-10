@@ -28,6 +28,8 @@ Hello! I tested positive for COVID this last week and have been in University Is
 
 * Show where the private key you made is stored on your user account (but not its contents) as a screenshot.
 
+    * ![Picture 2.2](lab-report-3-photos\Screenshot_6.png)
+
 * Show running git commands to commit and push a change to Github while logged into your ieng6 account.
 
 * Show a link for the resulting commit.
