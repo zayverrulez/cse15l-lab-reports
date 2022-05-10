@@ -24,6 +24,8 @@ Hello! I tested positive for COVID this last week and have been in University Is
 
 * Show where the public key you made is stored on Github and in your user account (screenshot).
 
+    * ![Picture 2.1](lab-report-3-photos\Screenshot_5.png)
+
 * Show where the private key you made is stored on your user account (but not its contents) as a screenshot.
 
 * Show running git commands to commit and push a change to Github while logged into your ieng6 account.
