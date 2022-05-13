@@ -56,7 +56,7 @@ Things get a little weird when you copy whole directories. By weird, I mean abno
 * Show logging into your ieng6 account after doing this and compiling
 and running the tests for your repository.
 
-    *
+    * ![Picture 3.2](lab-report-3-photos\Screenshot_5.png)
 
 * Show (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
 
