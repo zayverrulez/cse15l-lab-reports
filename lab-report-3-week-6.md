@@ -60,4 +60,8 @@ and running the tests for your repository.
 
 * Show (like in the last step of the first lab) combining scp, ;, and ssh to copy the whole directory and run the tests in one line.
 
-    *
+    * ``` scp -r markdown-parser ieng6:~/markdown-parser ; ssh ieng6 "cd markdown-parser;/software/CSE/oracle-java-17/jdk-17.0.1/bin/javac -cp .:lib/* *.java;/software/CSE/oracle-java-17/jdk-17.0.1/bin/java -cp .:lib/* org.junit.runner.JUnitCore MarkdownParseTest" ```
+    * ![Picture 3.3.1](lab-report-3-photos\Screenshot_6.png)
+    * ![Picture 3.3.2](lab-report-3-photos\Screenshot_7.png)
+    * ![Picture 3.3.3](lab-report-3-photos\Screenshot_8.png)
+    * ![Picture 3.3.4](lab-report-3-photos\Screenshot_9.png)
