@@ -10,10 +10,10 @@ Hello! I tested positive for COVID this last week and have been in University Is
 
 * Show your .ssh/config file, and how you edited it (with VScode, another program, etc)
 
-    * ![Picture 1.1](lab-report-3-photos\Screenshot_1.png)
+    * ![Picture 1.1](lab-report-3-photos\Screenshot_3.png)
 * Show the ssh command logging you into your account using just the alias you chose.
 
-    * ![Picture 1.2](lab-report-3-photos\Screenshot_3.png)
+    * ![Picture 1.2](lab-report-3-photos\Screenshot_1.png)
 * Show an scp command copying a file to your account using just the alias you chose.
 
     * ![Picture 1.3](lab-report-3-photos\Screenshot_4.png)
