@@ -7,6 +7,12 @@
 
 **Ordered from neswest to oldest** so the lab report you should be looking for is at the top. Your welcome! ;)
 
+## Lab Report 4 on Week 8
+
+[https://zayverrulez.github.io/cse15l-lab-reports/lab-report-4-week-8.html](lab-report-4-week-8.md)
+
+---
+
 ## Lab Report 3 on Week 6
 
 [https://zayverrulez.github.io/cse15l-lab-reports/lab-report-3-week-6.html](lab-report-3-week-6.md)

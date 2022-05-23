@@ -11,7 +11,7 @@ After a relatively quick and painless set-up here is what things look like:
 
 *Photo of installed VSCode*
 
-![Image](/Screenshot_1.png)
+![Image](lab-report-1-photos\Screenshot_1.png)
 
 
 
@@ -42,7 +42,7 @@ System Stats:
 
 *Picture of this interaction and system stats*
 
-![Image](/Screenshot_2.png)
+![Image](lab-report-1-photos\Screenshot_2.png)
 
 ## Trying Some Commands
 
@@ -50,7 +50,7 @@ My group and I made an effort to try every command listed in the lab and lecture
 
 *Here are some of the commands that my group mates and I tried out:*
 
-![Image](/Screenshot_3.png)
+![Image](lab-report-1-photos\Screenshot_3.png)
 
 ## Moving Files with scp
 
@@ -66,9 +66,9 @@ Then I was prompted to put in a password. After which the copy was complete. Fin
 
 *An image of a success scp file copy onto the remote computer.*
 
-![Image](/Screenshot_4.png)
+![Image](lab-report-1-photos\Screenshot_4.png)
 
-![Image](/Screenshot_7.png)
+![Image](lab-report-1-photos\Screenshot_7.png)
 
 ## Setting an SSH Key
 
@@ -108,7 +108,7 @@ Then I logged out. Back on my client I used an scp copy file command to move the
 
 *Now the ssh connection does not need a password as demonstrated in this picture:*
 
-![Image](/Screenshot_5.png)
+![Image](lab-report-1-photos\Screenshot_5.png)
 
 ## Optimizing Remote Running
 
@@ -124,4 +124,4 @@ Using the up-arrow to recall the last command ran, my team mates and I came up w
 
 *Here are a few ideas my group members and I came up with.*
  
-![Image](/Screenshot_6.png)
+![Image](lab-report-1-photos\Screenshot_6.png)
