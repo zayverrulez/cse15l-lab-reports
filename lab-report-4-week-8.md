@@ -3,9 +3,9 @@
 ## Repo Links
 
 * A link to your markdown-parse repository in week 7
-    * https://github.com/zayverrulez/markdown-parser
+    * [https://github.com/zayverrulez/markdown-parser](https://github.com/zayverrulez/markdown-parser)
 * A link to the one you reviewed in week 7
-    * https://github.com/szreik/markdown-parser
+    * [https://github.com/szreik/markdown-parser](https://github.com/szreik/markdown-parser)
 
 ---
 
@@ -14,7 +14,8 @@
 ### Snipet Test 1
 
 * Decide on what it should produce (i.e., expected output) by using either VScode preview or the CommonMark demo site
-    * Answer
+    * Expected output: ```[`google.com, google.com, ucsd.edu]```
+    * VScode preview: ![Screenshot 1](lab-report-4-photos\Screenshot_1.png)
 * Showing the code in MarkdownParseTest.java for how you turned it into a test
     * Answer
 * For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
@@ -25,7 +26,8 @@
 ### Snipet Test 2
 
 * Decide on what it should produce (i.e., expected output) by using either VScode preview or the CommonMark demo site
-    * Answer
+    * Expected output: ```[]```
+    * VScode preview: ![Screenshot 1](lab-report-4-photos\Screenshot_2.png)
 * Showing the code in MarkdownParseTest.java for how you turned it into a test
     * Answer
 * For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
@@ -36,7 +38,8 @@
 ### Snipet Test 3
 
 * Decide on what it should produce (i.e., expected output) by using either VScode preview or the CommonMark demo site
-    * Answer
+    * Expected output: ```[]```
+    * VScode preview: ![Screenshot 1](lab-report-4-photos\Screenshot_3.png)
 * Showing the code in MarkdownParseTest.java for how you turned it into a test
     * Answer
 * For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
