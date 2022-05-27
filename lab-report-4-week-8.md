@@ -17,7 +17,7 @@
     * Expected output: ```[`google.com, google.com, ucsd.edu]```
     * VScode preview: ![Screenshot 1](lab-report-4-photos\Screenshot_1.png)
 * Showing the code in MarkdownParseTest.java for how you turned it into a test
-    * Answer
+    * ![Screenshot 5](lab-report-4-photos\Screenshot_5.png)
 * For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
     * Answer
 * For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
@@ -26,10 +26,10 @@
 ### Snipet Test 2
 
 * Decide on what it should produce (i.e., expected output) by using either VScode preview or the CommonMark demo site
-    * Expected output: ```[]```
+    * Expected output: ```[a.com, a.com(()), example.com]```
     * VScode preview: ![Screenshot 1](lab-report-4-photos\Screenshot_2.png)
 * Showing the code in MarkdownParseTest.java for how you turned it into a test
-    * Answer
+    * ![Screenshot 6](lab-report-4-photos\Screenshot_6.png)
 * For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
     * Answer
 * For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
@@ -38,10 +38,10 @@
 ### Snipet Test 3
 
 * Decide on what it should produce (i.e., expected output) by using either VScode preview or the CommonMark demo site
-    * Expected output: ```[]```
+    * Expected output: ```[https://sites.google.com/eng.ucsd.edu/cse-15l-spring-2022/schedule]```
     * VScode preview: ![Screenshot 1](lab-report-4-photos\Screenshot_3.png)
 * Showing the code in MarkdownParseTest.java for how you turned it into a test
-    * Answer
+    * ![Screenshot 7](lab-report-4-photos\Screenshot_7.png)
 * For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
     * Answer
 * For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
