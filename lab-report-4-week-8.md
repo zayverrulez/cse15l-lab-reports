@@ -20,9 +20,8 @@
     * ![Screenshot 5](lab-report-4-photos\Screenshot_5.png)
 * For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
     * My repo: failed. ![My repo](lab-report-4-photos\Screenshot_8.png)
-    * Review repo: infinite loop ![Review repo](lab-report-4-photos\Screenshot_11.png)
 * For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
-    * Answer
+    * infinite loop ![Review repo](lab-report-4-photos\Screenshot_11.png)
 
 ### Snipet Test 2
 
@@ -33,9 +32,8 @@
     * ![Screenshot 6](lab-report-4-photos\Screenshot_6.png)
 * For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
     * My repo: failed. ![My repo](lab-report-4-photos\Screenshot_9.png)
-    * Review repo: infinite loop ![Review repo](lab-report-4-photos\Screenshot_11.png)
 * For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
-    * Answer
+    * infinite loop ![Review repo](lab-report-4-photos\Screenshot_11.png)
 
 ### Snipet Test 3
 
@@ -45,10 +43,9 @@
 * Showing the code in MarkdownParseTest.java for how you turned it into a test
     * Review repo: infinite loop ![Screenshot 7](lab-report-4-photos\Screenshot_7.png)
 * For your implementation, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
-    * My repo: failed. ![My repo](lab-report-4-photos\Screenshot_10.png)
-    * Review repo: infinite loop ![Review repo](lab-report-4-photos\Screenshot_11.png)
+    * Failed. ![My repo](lab-report-4-photos\Screenshot_10.png)
 * For the implementation you reviewed in Week 7, the corresponding output when running the tests; if it passed, say so. If it didn’t pass, show the specific part of the JUnit output that shows the test failure.
-    * Answer
+    * infinite loop ![Review repo](lab-report-4-photos\Screenshot_11.png)
 
 ---
 
