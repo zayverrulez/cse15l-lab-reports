@@ -53,9 +53,11 @@
 
 * Answer the following questions with 2-3 sentences each:
     * Do you think there is a small (<10 lines) code change that will make your program work for snippet 1 and all related cases that use inline code with backticks? If yes, describe the code change. If not, describe why it would be a more involved change.
-        * Answer
+        * Yes, the addition of a function which checks and then ignores back ticks/code block `like this ` should allow the correct answer. My result got the last three links, but missed the first example because of the lack of code block stopper. I believe this function can be added in under 10 lines.
     * Do you think there is a small (<10 lines) code change that will make your program work for snippet 2 and all related cases that nest parentheses, brackets, and escaped brackets? If yes, describe the code change. If not, describe why it would be a more involved change.
-        * Answer
+        * Yes, the addition of a function which checks and then ignores forward slashes like this: `\` would allow the correct answer. They are commonly used to indicate that the next character should be ignored, allowing my program to successful create the correct outcome. My result got the first two links, but missed the last example because of the lack of code block stopper which I believe can be added in under 10 lines.
+    
     * Do you think there is a small (<10 lines) code change that will make your program work for snippet 3 and all related cases that have newlines in brackets and parentheses? If yes, describe the code change. If not, describe why it would be a more involved change.
-        * Answer
+        * Yes, the addition of a function which checks and then ignores newlines would allow for the correct answer. My result got the one corrent link, but incorrectly included the other possibilties with newlines inbetween them. This is because of the lack of code block stopper which I believe can be added in under 10 lines in a seperate function.
+
 * If your code already works on some/all test cases, include an explanation of what were the code changes that allowed the tests to pass.
